@@ -1,0 +1,3 @@
+]0;~/mypackage[?1034hMideMacBook-Air:mypackage milin$ git init
+Initialized empty Git repository in /Users/milin/mypackage/.git/
+]0;~/mypackageMideMacBook-Air:mypackage milin$ git add .
